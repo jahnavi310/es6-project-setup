@@ -93,11 +93,11 @@ The contents of the two files:
 -The bundled file is passed through babelify to transform the code into ES5
 -A file named main.js that can be executed in all browsers
 
-Usage example:
+Usage example
 ---------------------
 Please refer to usage.html and open up the console to see how the script is initialized.
 
-Future Agenda:'
+Future Agenda
 ---------------------
 Please be tuned for sample and simple ES6 javascript code SNIPPETS...!!!
 
