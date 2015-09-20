@@ -1,4 +1,4 @@
-# es6-proj-fire-up
+# es6-project-setup
 
 Download this repository into your workspace, follow the belowe mentioned instructions and get up and running with any ES6 project in a matter of seconds.
 
