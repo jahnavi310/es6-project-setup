@@ -1,0 +1,14 @@
+{
+  "name": "es6-project-setup",
+  "version": "1.0.0",
+  "authors": [
+    "Jahnavi Patel <jahnavi310@gmail.com>"
+  ],
+  "description": "Setup your ES6 workspace",
+  "main": "/dist/main.js",
+  "keywords": [
+    "es6",
+    "browserify",
+    "bablify"
+  ]
+}
