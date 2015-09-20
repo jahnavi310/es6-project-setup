@@ -21,8 +21,22 @@ What is Browserify?
 Browserify allows us to use node.js style modules in the browser. We define dependencies and then Browserify bundles it all up into a single neat and tidy JavaScript file.
 For more info, check this out: https://github.com/substack/node-browserify#usage
 
-Installtion
+Installation
 ---------------------
+
+Clone this repo into your local workspace
+
+Please install grunt for a smooth and refined build process.
+
+Grunt installation:
+```npm install -g grunt-cli```
+
+Node installation:
+```sudo apt-get install nodejs```
+
+Once all of the above steps are done, run ```npm install``` where this cloned repository resides.
+
+For more info on grunt please refer: http://gruntjs.com/getting-started
 
 
 Understanding the project structure
