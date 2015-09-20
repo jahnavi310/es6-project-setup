@@ -30,6 +30,7 @@ Understanding the project structure
 
 Below is the project structure:
 
+ ```
 |-- dist/
    |-----main.js
    |-----main.min.js
@@ -39,6 +40,7 @@ Below is the project structure:
 |--Gruntfile.js
 |--package.json
 |--usage.html
+ ```
 
 All of you would be familiar with Gruntfile.js and the package.json.
 
@@ -61,9 +63,11 @@ This is essesntially to understand how ES6 is currently running on the browsers 
 To get a complete overview of the new ES6 feature please refer: http://es6-features.org/#Constants
 
 The contents of the two files:
-|-- modules/
+ ```
+ |-- modules/
    |-----learnES6.js
    |-----main.js
+```
    
  contains the ES6 code.
 
