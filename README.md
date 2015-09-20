@@ -14,11 +14,13 @@ This repo sets up a project that integrates Babel and Browserify to write code i
 What is Babel?
 ---------------------
 In plain words, Babel is a transpiler for JavaScript best known for its ability to turn ES6 (the next version of JavaScript) into code that runs in your browser (or on your server) today. 
+
 For more info, check this out: https://babeljs.io/
 
 What is Browserify?
 ---------------------
 Browserify allows us to use node.js style modules in the browser. We define dependencies and then Browserify bundles it all up into a single neat and tidy JavaScript file.
+
 For more info, check this out: https://github.com/substack/node-browserify#usage
 
 Installation
@@ -90,3 +92,17 @@ The contents of the two files:
 -Browserify will bundle all the files into one
 -The bundled file is passed through babelify to transform the code into ES5
 -A file named main.js that can be executed in all browsers
+
+Usage example:
+---------------------
+Please refer to usage.html and open up the console to see how the script is initialized.
+
+Issues
+---------------------
+Any issues found here or suggestions for improvement are most welcome.
+
+Contributing
+---------------------
+I would highly appreciate Pull Requests and contributions are also most welcome. After all the installation is done, you should be able to edit learnES6.js at your own will, once finished just run ``` grunt```  to make sure you are totally error free.
+
+After this feel free to commit your changes to the master branch. THANKS in advance.
