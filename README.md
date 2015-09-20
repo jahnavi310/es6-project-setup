@@ -97,6 +97,10 @@ Usage example:
 ---------------------
 Please refer to usage.html and open up the console to see how the script is initialized.
 
+Future Agenda:'
+---------------------
+Please be tuned for sample and simple ES6 javascript code SNIPPETS...!!!
+
 Issues
 ---------------------
 Any issues found here or suggestions for improvement are most welcome.
