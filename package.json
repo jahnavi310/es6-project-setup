@@ -1,5 +1,7 @@
 {
     "name": "ES6-project-setup-babelify-browserify",
+    "description": "Setup your ES6 today"
+    "author": "Jahnavi Patel <jahnavi310@gmail.com>",
     "main": "dist/module.js",
     "devDependencies": {
         "grunt": "^0.4.5",
