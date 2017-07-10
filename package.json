@@ -4,11 +4,11 @@
     "author": "Jahnavi Patel <jahnavi310@gmail.com>",
     "main": "dist/module.js",
     "devDependencies": {
-        "grunt": "^0.4.5",
-        "babelify": "^6.1.0",
-        "grunt-browserify": "^3.8.0",
-        "grunt-contrib-watch": "^0.6.1",
-        "grunt-contrib-jshint": "^0.11.1",
-    	"grunt-contrib-uglify": "^0.8.0"
+        "grunt": "^1.0.1",
+        "babelify": "^7.3.0",
+        "grunt-browserify": "^5.0.0",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-contrib-jshint": "^1.1.0",
+    	"grunt-contrib-uglify": "^3.0.1"
     }
 }
