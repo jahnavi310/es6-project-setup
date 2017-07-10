@@ -1,5 +1,7 @@
 # es6-project-setup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jahnavi310/es6-project-setup.svg)](https://greenkeeper.io/)
+
 Download this repository into your workspace, follow the below mentioned instructions and get up and running with any ES6 project in a matter of seconds.
 
 ES6 - The new face of JS!
